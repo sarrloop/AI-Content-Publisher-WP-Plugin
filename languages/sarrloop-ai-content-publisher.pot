@@ -1,0 +1,519 @@
+﻿# Copyright (C) 2026 Sarrloop
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sarrloop AI Content Publisher 1.0.0\n"
+"Report-Msgid-Bugs-To: https://sarrloop.com\n"
+"POT-Creation-Date: 2026-10-02T02:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: WP-CLI\n"
+"X-Domain: sarrloop-ai-content-publisher\n"
+#: includes/class-sarrloop-admin.php:51
+msgid "Sarrloop AI Content"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:52
+msgid "Sarrloop AI"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:94
+msgid "Are you sure you want to clear the logs?"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:95
+msgid "Generating..."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:96
+msgid "Generating article... Please wait."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:97 includes/class-sarrloop-admin.php:153
+msgid "Generate Article Now"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:98
+msgid "Success!"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:99
+msgid "Edit Article"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:100
+msgid "Generating featured image..."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:101
+msgid "Generation failed:"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:102
+msgid "Featured image added successfully."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:103
+msgid "Featured image generation failed."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:104
+msgid "Unable to clear logs."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:105
+msgid "The request took too long. The article may already have been created. Please check Posts before trying again."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:106
+msgid "WordPress returned a server error (HTTP 500). Please check your error log."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:107
+msgid "Permission or security check failed (HTTP 403)."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:108
+msgid "The AJAX endpoint was not found (HTTP 404)."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:109
+msgid "Unable to communicate with the server."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:110 includes/class-sarrloop-admin.php:614
+msgid "e.g. Website performance optimization"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:111 includes/class-sarrloop-admin.php:704
+msgid "Button text"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:112 includes/class-sarrloop-admin.php:718
+msgid "Optional category"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:113 includes/class-sarrloop-admin.php:792
+msgid "Schedule name"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:114 includes/class-sarrloop-admin.php:624 includes/class-sarrloop-admin.php:728 includes/class-sarrloop-admin.php:808 includes/class-sarrloop-admin.php:948
+msgid "Active"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:115 includes/class-sarrloop-admin.php:628 includes/class-sarrloop-admin.php:732 includes/class-sarrloop-admin.php:812
+msgid "Remove"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:140
+msgid "Sarrloop AI Content Publisher"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:183
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:206
+msgid "AI Provider"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:211
+msgid "Provider"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:227
+msgid "OpenAI API Key"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:241
+msgid "OpenAI Text Model"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:251
+msgid "e.g. gpt-4o-mini, gpt-4o, o1-mini, o3-mini. Reasoning models and standard models are fully supported."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:257
+msgid "OpenAI Image Model"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:267
+msgid "e.g. gpt-image-1, dall-e-3. GPT image models and DALL-E models are automatically formatted."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:273
+msgid "Gemini API Key"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:287
+msgid "Gemini Text Model"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:297
+msgid "e.g. gemini-1.5-flash, gemini-1.5-pro, gemini-2.0-flash."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:303
+msgid "Gemini Image Model"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:313
+msgid "e.g. imagen-3.0-generate-002. Supports both Imagen and multimodal Gemini image models."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:347
+msgid "Content Settings"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:352
+msgid "Website Focus / Niche"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:360
+msgid "e.g. Real Estate, Health, WordPress, etc."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:364
+msgid "Optional. Guides AI content and topic generation to fit your specific website."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:370
+msgid "Article Length"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:382
+msgid "500 - 5000 words."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:388
+msgid "Language"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:400
+msgid "Post Status"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:405
+msgid "Draft"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:409
+msgid "Publish"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:413
+msgid "Pending Review"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:420
+msgid "Author"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:426
+msgid "Current user"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:445
+msgid "Category"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:451
+msgid "Default category"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:470
+msgid "Features"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:481
+msgid "Generate SEO metadata"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:493
+msgid "Generate featured image"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:505
+msgid "Add internal links"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:517
+msgid "Add promotional CTA"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:524
+msgid "Maximum Internal Links"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:554
+msgid "Topics"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:559
+msgid "Topic Mode"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:569
+msgid "My Topics"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:576
+msgid "AI Generated Topics"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:583
+msgid "My Topics + AI Generated"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:642
+msgid "+ Add Topic"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:660
+msgid "Promotional Links"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:663
+msgid "Optional: Add your own promotional or affiliate links to recommend at the end of generated articles."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:668
+msgid "CTA Heading"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:674 includes/class-sarrloop-publisher.php:323
+msgid "Recommended Resource"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:675
+msgid "e.g. Recommended Resource"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:691
+msgid "No promotional links added yet. Click \"+ Add Link\" below to add your custom links."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:746
+msgid "+ Add Link"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:764
+msgid "Publishing Schedule"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:767
+msgid "Add multiple publishing times. Each schedule can be paused independently."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:826
+msgid "+ Add Schedule"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:830
+msgid "WordPress timezone:"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:849
+msgid "Featured Image"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:854
+msgid "Aspect Ratio"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:861
+msgid "16:9 Landscape"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:865
+msgid "1:1 Square"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:869
+msgid "4:3"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:873
+msgid "3:2"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:882
+msgid "Image Style"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:890
+msgid "Professional modern editorial"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:896
+msgid "Image Text"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:903
+msgid "No text"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:907
+msgid "Allow minimal text"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:933
+msgid "Automated Publishing & Cron"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:936
+msgid "WordPress background cron is active and scheduled every 5 minutes."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:939
+msgid "Optional External Cron: If your web host disables WP-Cron or you prefer a system crontab/web cron, you can call this secure REST URL directly:"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:942
+msgid "The URL contains a private authentication key. Do not share it publicly."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:946
+msgid "Schedule"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:947 includes/class-sarrloop-admin.php:1008
+msgid "Time"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:949
+msgid "Last Run"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:950
+msgid "Next Run"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:955
+msgid "No schedules configured."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:960
+msgid "Yes"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:960
+msgid "No"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:967
+msgid "Pending featured images:"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:987
+msgid "Activity Logs"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:993
+msgid "Clear Logs"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:1000
+msgid "No logs yet."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:1009
+msgid "Type"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:1010
+msgid "Message"
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:1328
+msgid "Permission denied."
+msgstr ""
+
+#: includes/class-sarrloop-admin.php:1338
+msgid "Logs cleared."
+msgstr ""
+
+#: includes/class-sarrloop-content.php:85
+msgid "No active topics have been configured."
+msgstr ""
+
+#: includes/class-sarrloop-content.php:303
+msgid "The AI returned an invalid article format."
+msgstr ""
+
+#: includes/class-sarrloop-content.php:345
+msgid "The generated article is missing required fields."
+msgstr ""
+
+#: includes/class-sarrloop-cron.php:38
+msgid "Every 5 Minutes"
+msgstr ""
+
+#: includes/class-sarrloop-cron.php:145
+msgid "Invalid Sarrloop AI cron key."
+msgstr ""
+
+#: includes/class-sarrloop-gemini.php:25 includes/class-sarrloop-gemini.php:183
+msgid "Gemini API key is not configured."
+msgstr ""
+
+#: includes/class-sarrloop-gemini.php:126
+msgid "Gemini API request failed."
+msgstr ""
+
+#: includes/class-sarrloop-gemini.php:153
+msgid "Gemini blocked the request: %s"
+msgstr ""
+
+#: includes/class-sarrloop-gemini.php:161
+msgid "Gemini returned an empty response."
+msgstr ""
+
+#: includes/class-sarrloop-gemini.php:274
+msgid "Gemini image request failed."
+msgstr ""
+
+#: includes/class-sarrloop-gemini.php:314
+msgid "Gemini did not return image data."
+msgstr ""
+
+#: includes/class-sarrloop-image.php:88
+msgid "No image data was returned."
+msgstr ""
+
+#: includes/class-sarrloop-image.php:108
+msgid "Unable to decode generated image."
+msgstr ""
+
+#: includes/class-sarrloop-openai.php:25 includes/class-sarrloop-openai.php:195
+msgid "OpenAI API key is not configured."
+msgstr ""
+
+#: includes/class-sarrloop-openai.php:130
+msgid "OpenAI API request failed."
+msgstr ""
+
+#: includes/class-sarrloop-openai.php:173
+msgid "OpenAI returned an empty response."
+msgstr ""
+
+#: includes/class-sarrloop-openai.php:290
+msgid "OpenAI image request failed."
+msgstr ""
+
+#: includes/class-sarrloop-openai.php:322
+msgid "OpenAI did not return image data."
+msgstr ""
+
+#: includes/class-sarrloop-publisher.php:33
+msgid "Invalid article data."
+msgstr ""
+
+#: includes/class-sarrloop-publisher.php:281
+msgid "Related"
+msgstr ""
+
